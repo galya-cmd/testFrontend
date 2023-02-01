@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/galya-cmd/testFrontend.git/static/css/main.5f31b17a.css",
+    "main.js": "/galya-cmd/testFrontend.git/static/js/main.8439366d.js",
+    "static/js/787.0c3f432a.chunk.js": "/galya-cmd/testFrontend.git/static/js/787.0c3f432a.chunk.js",
+    "static/media/text.svg": "/galya-cmd/testFrontend.git/static/media/text.a9f5760ca3482d671129f8ebf3d57e8a.svg",
+    "static/media/redball.png": "/galya-cmd/testFrontend.git/static/media/redball.f022e27b62bd557848fe.png",
+    "static/media/purpleball.png": "/galya-cmd/testFrontend.git/static/media/purpleball.7f9f18e203cbe216cca5.png",
+    "static/media/welbex1.svg": "/galya-cmd/testFrontend.git/static/media/welbex1.a340fe1c646e38976df9ed92bd039a02.svg",
+    "static/media/logo.svg": "/galya-cmd/testFrontend.git/static/media/logo.27138dbd60d7029458ade4c27660c15a.svg",
+    "static/media/red ball-mini.svg": "/galya-cmd/testFrontend.git/static/media/red ball-mini.d0944b6e50e80d4994d4.svg",
+    "index.html": "/galya-cmd/testFrontend.git/index.html",
+    "main.5f31b17a.css.map": "/galya-cmd/testFrontend.git/static/css/main.5f31b17a.css.map",
+    "main.8439366d.js.map": "/galya-cmd/testFrontend.git/static/js/main.8439366d.js.map",
+    "787.0c3f432a.chunk.js.map": "/galya-cmd/testFrontend.git/static/js/787.0c3f432a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f31b17a.css",
+    "static/js/main.8439366d.js"
+  ]
+}
